@@ -1,6 +1,6 @@
-<h1 align="center" id="title">Flight Booking</h1>
+<h1 align="center" id="title">Flight Booking Management</h1>
 
-<p id="description">In Flight Booking website we can book the flight and we can add the flight and remove the flight.</p>
+<p id="description">A flight booking backend code for booking flights with users and admin features Where the admin can add flights remove flights can view all thee users who are logged in. In users we can book tickets can view the flights can view the flights which was booked by the users.</p>
 
 <h2>🚀 Demo</h2>
 
@@ -8,35 +8,37 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ](https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(28).png)" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(28).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(29).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(30).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(31).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(32).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(33).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(34).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(35).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(36).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(37).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(38).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(39).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(40).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(41).png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2Fclose-up-of-tulips-blooming-in-field-royalty-free-image-1584131603.jpg%3Fcrop%3D0.630xw%3A1.00xh%3B0.186xw%2C0%26resize%3D1200%3A*&amp;tbnid=aFDD-W08Psf5UM&amp;vet=12ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ..i&amp;imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Flifestyle%2Fgardening%2Fg13074130%2Fbeautiful-flower-images%2F&amp;docid=pxn6KoNeXNKDvM&amp;w=1200&amp;h=1196&amp;itg=1&amp;q=flower&amp;ved=2ahUKEwiyoeKhxeX-AhWbDbcAHUnzCiMQMygAegUIARDeAQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(42).png" alt="project-screenshot" width="400" height="400/">
+
+<img src="https://github.com/abhiselvi/dev_rev_task/blob/main/Screenshot/Screenshot%20(43).png" alt="project-screenshot" width="400" height="400/">
 
   
   
@@ -44,10 +46,8 @@
 
 Here're some of the project's best features:
 
-*   Fight booking
-*   Search flight using name / time / date
-*   User - View bookings / booking tickects / Filter the flights
-*   Admin - Add flight / remove flight / user view
+*   users-book tickets view bookings search flights by time date availability
+*   Admin-view users add flight remove flight see flight booked details
 
   
   
@@ -55,7 +55,7 @@ Here're some of the project's best features:
 
 Technologies used in the project:
 
-*   Node js
-*   Mongo db
-*   Express js
+*   NodeJS
+*   MongoDB
+*   ExpressJS
 *   Postman
